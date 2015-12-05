@@ -1,4 +1,8 @@
+// Users show page styles
+
 .profile-image {
+    height: 128px;
+    width: 128px;
     border-radius: 50%;
     border: 2px solid #fff;
     -webkit-box-shadow: -1px 7px 16px -2px rgba(0,0,0,0.75);
@@ -32,4 +36,10 @@
 .well.contact-info {
     background-color: #5bc0de;
     border-color: #46b8da;
+}
+
+// Users index page styles:
+
+.user-index-avatar {
+    border-radius: 50%;
 }
